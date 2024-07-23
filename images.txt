@@ -9,4 +9,4 @@ alpine:3.18.2
 phpmyadmin:5.2.1
 spryker/redis-commander:0.8.0
 redis:7.2.0
-portainer:portainer:latest
+node:18-alpine
